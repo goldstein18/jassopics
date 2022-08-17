@@ -2886,9 +2886,12 @@ blockquote cite:before {
 .gallery-item {
     position: relative;
     padding-top: 20px;
-} .gallery-item img{
-  
-    
+} 
+
+.gallery-item img{
+   height: 300px !important;
+       width: 500px !important;
+	
 }
 .gallery-box {
     overflow: hidden;
