@@ -2887,8 +2887,7 @@ blockquote cite:before {
     position: relative;
     padding-top: 20px;
 } .gallery-item img{
-  height: 300px !important;
-      width: 500px !important;
+  
     
 }
 .gallery-box {
